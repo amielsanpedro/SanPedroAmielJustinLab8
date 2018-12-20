@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049353986611",
+    "firebase_url": "https://sanpedroamieljustinlab8.firebaseio.com",
+    "project_id": "sanpedroamieljustinlab8",
+    "storage_bucket": "sanpedroamieljustinlab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049353986611:android:f33e587b96847b5d",
+        "android_client_info": {
+          "package_name": "com.sanpedro.amieljustin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049353986611-2e6qbs9gu146hputi45nifu14739lok9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanpedro.amieljustin",
+            "certificate_hash": "8a13b82034dc95b000573933b1d97847ca5ab059"
+          }
+        },
+        {
+          "client_id": "1049353986611-0uuchuhdpm1jshj20469i0cvdvpamu4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ezq1Ig2hSoO9vcdZGFDmYh09m-TPv10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049353986611-0uuchuhdpm1jshj20469i0cvdvpamu4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
